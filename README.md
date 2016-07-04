@@ -96,6 +96,10 @@ Template App Nginx
 ======
 Monitoring for Nginx. It is using script ```nginx-check.sh``` written by Vincent Viallet.
 
+Template App Zookeeper
+======
+Monitoring for Zookeeper. It is using script ```zookeeper-check.sh```.
+
 Template App Nscd
 ======
 Nscd is a daemon that provides a cache for the most common name service requests. Nscd provides caching for accesses of the passwd(5), group(5), and hosts(5) databases through standard libc interfaces, such as getpwnam(3), getpwuid(3), getgrnam(3), getgrgid(3), gethostbyname(3), and others.
